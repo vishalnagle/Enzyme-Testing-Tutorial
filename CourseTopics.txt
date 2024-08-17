@@ -1,0 +1,16 @@
+Tutorial url: https://www.youtube.com/watch?v=0H5gKsNVDYU&list=PLolI8AY2AS9YrlE4RXrU7ZZUEBo0cNCEd&index=2
+
+TOPICS:
+
+1.Introduction | #1 | React Unit Testing with Jest and Enzyme
+2.Jest setup & Example | #2 | React Unit Testing with Jest and Enzyme
+3.Enzyme Setup & Example
+4.DOM Unit Testing | #4
+5.Simulate & Dive | Click Event Test | #5
+6.Match Snapshot | #6
+7.Mount vs Shallow | #7
+8.Instance, Jest.spyOn, State, Props & toBe vs toEqual | #8
+9.Mock | jest.fn() & jest.spyOn() | #9
+10.Setup & Tear down | #10 - Helper functions like beforeAll(),afterAll(),beforeEach(),afterEach()
+11.Functional Component Test | #11
+
