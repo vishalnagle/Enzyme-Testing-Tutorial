@@ -18,4 +18,11 @@ TOPICS:
 
 Second tutorial url: https://www.youtube.com/watch?v=gH_iaiBMlOc&list=PLxnSeqQVewBOhdbZr1JSjoYJ3AxsOPA7F
 
+[#1] How to Test React component using Enzyme and Jest
+[#2] Snapshot Testing using Enzyme and Jest 
+[#3] Mocking React Component in Jest
+[#4] Test React Hooks in Enzyme Shallow and Jest
+[#5] Test React Query Custom Hook in Enzyme and Jest 
+[#6] Test Async (API calls) in React using Enzyme and Jest
 
+--------------------------------------------------------------------------------------------------------------------------
