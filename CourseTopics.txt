@@ -14,3 +14,8 @@ TOPICS:
 10.Setup & Tear down | #10 - Helper functions like beforeAll(),afterAll(),beforeEach(),afterEach()
 11.Functional Component Test | #11
 
+------------------------------------------------------------------------------------------------------------------------
+
+Second tutorial url: https://www.youtube.com/watch?v=gH_iaiBMlOc&list=PLxnSeqQVewBOhdbZr1JSjoYJ3AxsOPA7F
+
+
